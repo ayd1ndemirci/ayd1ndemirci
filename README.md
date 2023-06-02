@@ -7,4 +7,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayd1ndemirci)]
-![](https://komarev.com/ghpvc/?ayd1ndemirci=your-github-ayd1ndemirci&color=blue)
+![](https://komarev.com/ghpvc/?username=ayd1ndemirci)
