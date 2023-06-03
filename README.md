@@ -5,7 +5,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayd1ndemirci)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayd1ndemirci)
 
 
 ![](https://komarev.com/ghpvc/?username=ayd1ndemirci)
