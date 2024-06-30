@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayd1ndemirci
 - 👀 I'm a high school student
 - 🌱 I’m currently learning NodeJS and Python
-- ✉ Contact: ayd1ndemirci#0001
+- ✉ Contact: 4ydindemirci
 
 
 
