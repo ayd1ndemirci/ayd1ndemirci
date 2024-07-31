@@ -4,8 +4,7 @@
 - ✉ Contact: 4ydindemirci
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayd1ndemirci)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayd1ndemirci&layout=compact)
 
 
 ![](https://komarev.com/ghpvc/?username=ayd1ndemirci)
