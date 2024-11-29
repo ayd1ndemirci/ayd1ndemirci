@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayd1ndemirci
 - 👀 I'm a high school student
-- 🌱 I’m currently learning NodeJS and Python
+- 🌱 I’m currently learning GoLang
 - ✉ Contact: 4ydindemirci
 
 
