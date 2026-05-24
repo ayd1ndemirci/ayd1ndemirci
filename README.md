@@ -67,9 +67,9 @@ Aşağıdaki projeler, sunucu yedekleme, veri iletişimi ve servis arka yüzleri
       <img src="https://img.shields.io/badge/Language-Kotlin-0095D5?style=flat-square" alt="Kotlin" />
     </td>
     <td width="50%">
-      <h3>⚙️ <a href="https://github.com/ayd1ndemirci/c-is-better-than-python">c-is-better-than-python</a></h3>
-      <p>Sistem dillerinin performans üstünlüğünü ve düşük seviyeli bellek yönetimini gösteren algoritmik karşılaştırma projesi.</p>
-      <img src="https://img.shields.io/badge/Language-C-A8B9CC?style=flat-square" alt="C" />
+      <h3>⚙️ <a href="https://github.com/ayd1ndemirci/fluxrate">fluxrate</a></h3>
+      <p> Resilient, high-performance distributed rate limiter library for Go and Redis. Features 5 algorithms (GCRA, Token Bucket, Sliding Window) with automatic thread-safe local in-memory fallback on Redis outages. Includes Gin, Echo, net/http middleware and an interactive CLI simulator dashboard. </p>
+      <img src="https://img.shields.io/badge/Language-Go-00ADD8?style=flat-square" alt="Go" />
     </td>
   </tr>
 </table>
