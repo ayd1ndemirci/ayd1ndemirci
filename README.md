@@ -75,18 +75,3 @@ Aşağıdaki projeler, sunucu yedekleme, veri iletişimi ve servis arka yüzleri
 </table>
 
 ---
-
-## 📊 İstatistikler
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayd1ndemirci&show_icons=true&theme=tokyonight&count_private=true" alt="Aydın's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayd1ndemirci&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
-
-<p align="center">
-  Profilimi ziyaret ettiğiniz için teşekkürler! Herhangi bir proje veya iş birliği için bana ulaşmaktan çekinmeyin. 😊
-</p>
